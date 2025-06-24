@@ -64,7 +64,7 @@ A small sari-sari store wants to digitize its product inventory system. This too
 
 - **Font Awesome** icons: [https://fontawesome.com](https://fontawesome.com)
 - Button color ideas based on Bootstrap's palette
-- Developed with ❤️ by [Your Name Here]
+- Developed with ❤️ by Allen Jheru Santiago
 
 ---
 
